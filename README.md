@@ -3,14 +3,14 @@
 ### APIs
 Number and name of feature | Estimate of time needed to complete | Start time | Finish time | Actual time
 ---------------------------|-------------------------------------|------------|-------------|------------
-Feature #1: Database | ? | ? | ? | ?
+Feature #1: Database | 30min | 3:10pm | 4:10 | 1h
 Feature #2: Server  | ? | ? | ? | ?
 Feature #3: Deploy | ? | ? | ? | ?
 
 # Project Name
 
 **Author**: Ahmed Abu Samaan
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 2.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 convert a location entered by the user into a latitude and longitude, then use those values to request weather information for that location
@@ -24,7 +24,7 @@ dependencies such as cors , dotenv and express and pg.
 
 ## Change Log
 1. 04-07-2020 3:10pm - Application now has a ready files to start working
-2. 
+2. 04-07-2020 4:10pm - Application now has a ready schema.sql file
 3. 
 4. 
 
