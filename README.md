@@ -3,8 +3,8 @@
 ### APIs
 Number and name of feature | Estimate of time needed to complete | Start time | Finish time | Actual time
 ---------------------------|-------------------------------------|------------|-------------|------------
-Feature #1: Database | 30min | 3:10pm | 4:10 | 1h
-Feature #2: Server  | ? | ? | ? | ?
+Feature #1: Database | 30min | 3:10pm | 4:10pm | 1h
+Feature #2: Server  | 1h | 4:20pm | 6:20pm | 2h
 Feature #3: Deploy | ? | ? | ? | ?
 
 # Project Name
